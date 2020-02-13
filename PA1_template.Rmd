@@ -4,6 +4,7 @@ date: "13 Februar 2020"
 title: PA1_template.Rmd
 output:
    html_document: default
+   md_document:   default
 ---
 
 ```{r setup, include=FALSE}
